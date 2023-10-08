@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FayeLouise007
-- 👀 I’m interested in flutter, React Native & human computing 
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on all things renewable technologies can enhance
+- 👀 I’m interested React Native & human computing 
+- 🌱 I’m currently learning project management 
+- 💞️ I’m looking to collaborate on all things AR
 - 📫 How to reach me faye.mckeown@btinternet.com 
 
 
